@@ -1,7 +1,7 @@
 # Cognitive Chain-of-Thought (CoCoT): Structured Multimodal Reasoning about Social Situation.
 This is the official repository for "Cognitive Chain-of-Thought (CoCoT): Structured Multimodal Reasoning about Social Situations" (COLM 2026).
 
-<p align="center"> <img src="cocot_fi1.png" width="90%"> </p> <p align="center"> <em>CoCoT reasoning on multimodal intent disambiguation. Given a subtle utterance and an image, the task is to infer the speaker's intent in the visual context.</em> </p>
+<p align="center"> <img src="cocot_fig1.png" width="90%"> </p> <p align="center"> <em>CoCoT reasoning on multimodal intent disambiguation. Given a subtle utterance and an image, the task is to infer the speaker's intent in the visual context.</em> </p>
 
 ## About
 
